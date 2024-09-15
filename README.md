@@ -1,4 +1,4 @@
-# FX Library for ZN Framework
+# ZN Framework - FX Library
 
 ## Overview
 
